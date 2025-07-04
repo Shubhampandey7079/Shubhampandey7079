@@ -1,6 +1,6 @@
 <h5>👋 Ｈｉ， Ｉ＇ｍ Ｓｈｕｂｈａｍ Ｐａｎｄｅｙ! </h5>
 # 💫 About Me:
-👋 Hi, I'm Shubham Pandey!<br>🚀 Aspiring Data Scientist & Full-Stack Developer<br>💡 Passionate about building innovative solutions with Python, SQL, C, and MongoDB<br>📱 Currently working on EduFest, an education app startup<br>🎓 Pursuing BCA (2021-2024) from Veer Kunwar Singh University<br>🏆 Certified in Python (Kaggle) <br>🔍 Exploring AI, Data Science, and Backend Development
+👋 Hi, I'm Shubham Pandey!<br>🚀 Aspiring Data Scientist & Full-Stack Developer<br>💡 Passionate about building innovative solutions with Python, SQL, C, and MongoDB<br>📱 Currently working on EduFest, an education app startup<br>🎓 Pursuing MCA (2025-2027) from galgotias university <br>🏆 Certified in Python (Kaggle) <br>🔍 Exploring AI, Data Science, and Backend Development
 
 
 ## 🌐 Socials:
