@@ -68,7 +68,6 @@ except Exception:
 # -------------------------------
 def bar(val, total_val, color_hex):
     p = int((val/total_val)*100) if total_val else 0
-    # Using progress-bar.dev for crisp UI
     return f"![{p}%](https://progress-bar.dev/{p}/?width=400&color={color_hex})"
 
 # -------------------------------
@@ -84,7 +83,7 @@ with open("README.md", "w", encoding="utf-8") as f:
     # SOCIAL BADGES
     f.write('<div align="center">\n')
     f.write(f'<a href="https://leetcode.com/{USERNAME}/"><img src="https://img.shields.io/badge/LeetCode-{total}_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> ')
-    f.write(f'<a href="https://github.com/{GITHUB}"><img src="https://img.shields.io/badge/GitHub-Shubham_Pandey-181717?style=for-the-badge&logo=github&logoColor=white"/></a> ')
+    f.write(f'<a href="https://github.com/{GITHUB}"><img src="https://img.shields.io/badge/GitHub-Shubhampandey7079-181717?style=for-the-badge&logo=github&logoColor=white"/></a> ')
     f.write(f'<img src="https://img.shields.io/badge/Ranking-#{str(ranking) if isinstance(ranking, int) else "N/A"}-2196F3?style=for-the-badge&logo=serverfault&logoColor=white"/>\n')
     f.write('</div>\n\n')
 
@@ -179,4 +178,4 @@ with open("README.md", "w", encoding="utf-8") as f:
     f.write(f'<sub>✨ Profile auto-synced via GitHub Actions on: <b>{now}</b></sub>\n')
     f.write('</div>\n')
 
-print("🔥 ULTIMATE AUTOMATED README GENERATED SUCCESSFULLY")
+print("🔥 README GENERATED")
