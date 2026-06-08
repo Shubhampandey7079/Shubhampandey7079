@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Ranking-#4484231-00F7FF?style=for-the-badge&logo=serverfault&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Ranking-#4486939-00F7FF?style=for-the-badge&logo=serverfault&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Streak-0_Days-FF6B6B?style=for-the-badge&logo=fire&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Acceptance-N/A%-C084FC?style=for-the-badge&logo=check-circle&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Contributions-0-2ECC71?style=for-the-badge&logo=codeforces&logoColor=white"/></td>
@@ -170,6 +170,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC&1:7B2FFF&2:00F7FF&height=120&section=footer" width="100%"/>
 
-<sub>✨ Profile last synced on: <b>Jun 08, 2026 04:21 UTC</b></sub>
+<sub>✨ Profile last synced on: <b>Jun 08, 2026 11:03 UTC</b></sub>
 
 </div>
